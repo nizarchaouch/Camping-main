@@ -21,7 +21,7 @@ function Main() {
             
             <Link to="/destination" className="mx-4 link">DESTINATION</Link>
             
-            <NavDropdown title="GUIDE"  id="navbarScrollingDropdown"  className="mx-4" style={{color:"red"}}>
+            <NavDropdown title="GUIDE"  id="navbarScrollingDropdown"  className="mx-4" >
               
               <Link to="/acceuil" className="dropdown-item link">GUIDE</Link>
              
@@ -48,4 +48,5 @@ function Main() {
     </Navbar>
   );
 }
-
+
+export default Main;

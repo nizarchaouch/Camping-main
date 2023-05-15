@@ -54,6 +54,11 @@
   background-color: transparent;
   border: 0;
 }
-.red-text {
-  color: red;
+#navbarScrollingDropdown {
+  color: var(--primary-color);
+}
+#navbarScrollingDropdown:hover{
+  color: var(--secondary-color);
+  padding-bottom: 0.25rem;
+  border-bottom: 4px solid var(--secondary-color);
 }
