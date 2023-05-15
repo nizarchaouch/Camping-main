@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    height: 550px;
+    box-shadow: 0 5px 10px var(--secondary-color);
+    display: flex;
+    align-items: center;
+    background-image: url(../../Images/coverAcc.png);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
