@@ -15,19 +15,3 @@
 .card:hover {
     transform: translateY(-50px);
 }
-
-.card1 {
-    background-image: url(../../Images/korbous/korbous.jpg);
-}
-
-.card2 {
-    background-image: url(../../Images/ouedZitoun/ouedzitoun.jpg);
-}
-
-.card3 {
-    background-image: url(../../Images/djabelRassas/djabelrassas.jpg);
-}
-
-.card4 {
-    background-image: url(../../Images/ouedZen/ouedzen.jpg);
-}

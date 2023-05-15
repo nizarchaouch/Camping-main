@@ -17,7 +17,7 @@ function Destination() {
             id: "d2",
             title: "Oued Zitoun",
             subtitle: "Tunisie,Bizerte",
-            image:"ouedZen/ouedzen.jpg"
+            image:"ouedZitoun/ouedzitoun.jpg"
         },
         {
             id: "d3",
@@ -47,22 +47,7 @@ function Destination() {
             </div>
             <div className="row">
                 {listDest}
-                {/* <CardDest  title="Korbes" subTitle="Tunisie" ></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest>
-                <CardDest title="Korbes" subTitle="Tunisie"></CardDest> */}
+                
                
                 
             </div>
